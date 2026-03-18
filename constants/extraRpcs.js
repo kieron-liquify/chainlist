@@ -4867,6 +4867,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.GlobalStake,
       },
       {
+        url: "https://megaeth.liquify.com/json-rpc",
+        tracking: "limited",
+        trackingDetails: privacyStatement.GlobalStake,
+      },
+      {
         url: "https://megaeth.drpc.org",
         tracking: "none",
         trackingDetails: privacyStatement.drpc,
